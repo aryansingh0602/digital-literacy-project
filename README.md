@@ -48,3 +48,9 @@ A phishing case study and prevention checklist were prepared.
 ## Conclusion
 
 This project improved my understanding of digital tools, online safety, and professional communication.
+
+
+ ##link:
+ linkedin:https://www.linkedin.com/in/dadu-aryan-singh-24ab313bb/
+ canva:https://canva.link/hzpn1d9pif3zbhk
+ hackerrank:https://www.hackerrank.com/profile/daduaryansingh06
